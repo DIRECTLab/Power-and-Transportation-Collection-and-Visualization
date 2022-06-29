@@ -1,5 +1,20 @@
 # Power-and-Transportation-Collection-and-Visualization
 
+## Running the application
+
+There are two folders, both of which you will need to run to work with this. Kronk, which is the database, will need to be ran by running npm start, after following the instructions in the README.md that is located in that folder. That readme will get you up and running on creating your own database. Additionally, you will need to set up postgres, and there is a file called .env.example. This will need to be filled out with your information for your database, then renamed to .env for it to work.
+
+The evr-visualization folder is much easier to get up and running. First run npm install, then run npm start and it should start up.
+
+
+
+
+
+
+### API Endpoint Documentation
+Documenation was created on Postman and can be found here: [https://documenter.getpostman.com/view/21182825/Uz5FJbxs](https://documenter.getpostman.com/view/21182825/Uz5FJbxs)
+
+
 
 
 
