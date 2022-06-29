@@ -1,0 +1,17 @@
+.card {
+  background-color: rgb(42, 44, 57);
+  padding: 0.5em 1em;
+  border-radius: 8px;
+  height: 200px;
+  color: rgb(128, 138, 155);
+  text-align: left;
+  height: 100%;
+}
+
+hr {
+  background-color: rgb(128, 138, 155);
+  height: 1px;
+  border: none;
+  margin-left: -1em;
+  margin-right: -1em;
+}
